@@ -6,9 +6,7 @@ This is a learning path form  [Frontend Mentor](https://www.frontendmentor.io)
 ![](./images/ScreenShot.png)
 
 ### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://zlatan-cic.github.io/QR-code/)
 
 
 ### Built with
@@ -24,7 +22,7 @@ This is a learning path form  [Frontend Mentor](https://www.frontendmentor.io)
 - Frontend Mentor - [@zlatan-cic](https://www.frontendmentor.io/profile/yourusername)
 - Twitter - [@Zlatan_cic](https://twitter.com/Zlatan_cic)
 
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
+
 
 ## Acknowledgments
 
