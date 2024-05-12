@@ -19,7 +19,6 @@ This is a learning path form  [Frontend Mentor](https://www.frontendmentor.io)
 ## Author
 
 - GitHub - [zlatan-cic](https://github.com/zlatan-cic)
-- Frontend Mentor - [@zlatan-cic](https://www.frontendmentor.io/profile/yourusername)
 - Twitter - [@Zlatan_cic](https://twitter.com/Zlatan_cic)
 
 
