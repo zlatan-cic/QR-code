@@ -1,0 +1,75 @@
+@import url("https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap");
+
+:root {
+  --white: hsl(0, 0%, 100%);
+  --lite-gray: hsl(212, 45%, 89%);
+  --grayish-blue: hsl(220, 15%, 55%);
+  --dark-blue: hsl(218, 44%, 22%);
+
+  --f-size: 15px;
+  --outfit: "Outfit", sans-serif;
+}
+
+/* 
+Mobile: 375px
+Desktop: 1440px
+*/
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: var(--outfit);
+}
+
+body {
+   display: flex;
+   flex-direction: column;
+   height: 100vh;
+   margin: 0;
+   align-items: center;
+   justify-content: space-between;
+   background-color: var(--lite-gray);
+}
+
+.contrainer {
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   justify-content: center;
+   flex: 1; 
+}
+
+.wrapper {
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+  justify-content: center;
+  padding: 8px;
+  border-radius: 20px;
+  width: 350px;
+}
+
+.img-container img {
+  width: 100%;
+  padding: 10px;
+  overflow: auto;
+  border-radius: 20px;
+}
+
+.desc-container {
+  padding: 10px;
+  text-align: center;
+}
+
+.desc-container .title {
+  margin-bottom: 20px;
+}
+
+.desc-container .description {
+  opacity: 0.5;
+  font-size: 14px;
+  margin-bottom: 20px;
+}
